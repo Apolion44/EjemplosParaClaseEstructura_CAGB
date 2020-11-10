@@ -1,1 +1,14 @@
-<'Hola'>
+<?xml version="1.0"?>
+<universidad>
+ <alumno id="1813106">
+ <nombre>Carlos Guerrero</nombre>
+ <username>apolion44</username>
+ <password>246810</password>
+ </alumno>
+ <alumno id="2020129">
+ <nombre>Daniel Saucedo</nombre>
+ <username>sperez</username>
+ <password>433543</password>
+ </alumno>
+</universidad>
+
